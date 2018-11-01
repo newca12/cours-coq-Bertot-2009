@@ -1,3 +1,4 @@
 -R . coursBertot
 ch1.1-les_fonctions_en_Coq/functions.v
-
+ch1.5-l_ordre_superieur/higherOrder.v
+ch1.5-l_ordre_superieur/polymorphismSort.v
