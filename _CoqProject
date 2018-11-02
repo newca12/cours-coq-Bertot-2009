@@ -8,3 +8,4 @@ ch1.11-nombres_naturels_et_recursion/exampleProofs.v
 ch1.12-valeurs_booleennes_couples_et_listes/exampleProofs.v
 ch2.2-faire_des_preuves_en_Coq/exampleProofs.v
 ch2.3-preuves_avec_les_connecteurs_logiques/exampleProofs.v
+ch2.6-premieres_preuves_de_programmes/exampleProofs.v
