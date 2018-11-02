@@ -6,3 +6,4 @@ ch1.6-les_structures_de_donnees_en_Coq/exampleProofs.v
 ch1.8-types_inductifs_en_Coq/exampleProofs.v
 ch1.11-nombres_naturels_et_recursion/exampleProofs.v
 ch1.12-valeurs_booleennes_couples_et_listes/exampleProofs.v
+ch2.2-faire_des_preuves_en_Coq/exampleProofs.v
