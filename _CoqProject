@@ -10,3 +10,4 @@ ch2.2-faire_des_preuves_en_Coq/exampleProofs.v
 ch2.3-preuves_avec_les_connecteurs_logiques/exampleProofs.v
 ch2.6-premieres_preuves_de_programmes/exampleProofs.v
 ch3.1-introduction_aux_proprietes_inductives_en_Coq/exampleProofs.v
+ch3.4-inversion-des-proprietes-inductives/exampleProofs.v
