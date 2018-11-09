@@ -16,4 +16,5 @@ ch5.2-famille_de_types_recursifs_heterogenes/exampleProofs.v
 ch5.3-principe_de_recurrence_pour_les_predicats_inductifs/exampleProofs.v
 ch6.1-valeurs_certifiees/exampleProofs.v
 ch7.1-recursion_generale/exampleProofs.v
-ch7.3-relations_bien_fondees/exampleProofs.v
+ch7.2-relations_bien_fondees/exampleProofs.v
+ch7.3-la_commande_Function/exampleProofs.v
